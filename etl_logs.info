@@ -1,0 +1,45 @@
+2021-12-25 09:37:46.409 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 09:37:46.409 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 09:37:46.409 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 09:37:46.466 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 09:37:46.466 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 09:37:46.466 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 09:37:46.467 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 09:37:46.467 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 09:37:46.467 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 09:44:42.601 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 09:44:42.601 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 09:44:42.601 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 09:44:42.706 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 09:44:42.706 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 09:44:42.706 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 09:44:42.707 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 09:44:42.707 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 09:44:42.707 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 09:44:42.972 | INFO     | write:write_to_file:17 - ORDERS table is written.
+2021-12-25 09:44:42.972 | INFO     | write:write_to_file:17 - ORDERS table is written.
+2021-12-25 09:44:42.972 | INFO     | write:write_to_file:17 - ORDERS table is written.
+2021-12-25 10:08:22.674 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 10:08:22.674 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 10:08:22.674 | INFO     | __main__:main:19 - Reading data for ORDERS
+2021-12-25 10:08:22.732 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 10:08:22.732 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 10:08:22.732 | INFO     | read:read_table:43 - ORDERS table is read.
+2021-12-25 10:08:22.733 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 10:08:22.733 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 10:08:22.733 | INFO     | __main__:main:21 - Writing data for ORDERS into tmp fpr processing
+2021-12-25 10:08:22.835 | INFO     | write:write_to_file:17 - ORDERS table is written.
+2021-12-25 10:08:22.835 | INFO     | write:write_to_file:17 - ORDERS table is written.
+2021-12-25 10:08:22.835 | INFO     | write:write_to_file:17 - ORDERS table is written.
+2021-12-25 10:08:30.624 | INFO     | __main__:main:19 - Reading data for CUSTOMERS
+2021-12-25 10:08:30.624 | INFO     | __main__:main:19 - Reading data for CUSTOMERS
+2021-12-25 10:08:30.624 | INFO     | __main__:main:19 - Reading data for CUSTOMERS
+2021-12-25 10:08:30.657 | INFO     | read:read_table:43 - CUSTOMERS table is read.
+2021-12-25 10:08:30.657 | INFO     | read:read_table:43 - CUSTOMERS table is read.
+2021-12-25 10:08:30.657 | INFO     | read:read_table:43 - CUSTOMERS table is read.
+2021-12-25 10:08:30.659 | INFO     | __main__:main:21 - Writing data for CUSTOMERS into tmp fpr processing
+2021-12-25 10:08:30.659 | INFO     | __main__:main:21 - Writing data for CUSTOMERS into tmp fpr processing
+2021-12-25 10:08:30.659 | INFO     | __main__:main:21 - Writing data for CUSTOMERS into tmp fpr processing
+2021-12-25 10:08:30.697 | INFO     | write:write_to_file:17 - CUSTOMERS table is written.
+2021-12-25 10:08:30.697 | INFO     | write:write_to_file:17 - CUSTOMERS table is written.
+2021-12-25 10:08:30.697 | INFO     | write:write_to_file:17 - CUSTOMERS table is written.
